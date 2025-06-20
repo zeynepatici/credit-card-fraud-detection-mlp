@@ -43,6 +43,19 @@ The model uses a Multi-Layer Perceptron (MLP) architecture and is optimized via 
 - Training vs Validation Accuracy & Loss
 - Impact of hyperparameters visualized
 
+### Confusion Matrix
+![image](https://github.com/user-attachments/assets/94f13582-1ddd-42a2-bdb8-ad7abe7eda32)
+
+### ROC-AUC Curve
+![image](https://github.com/user-attachments/assets/00eef2e0-2d0a-4f3f-babc-8b3c2616be1c)
+
+### Training and Validation Loss
+![image](https://github.com/user-attachments/assets/7fd868b0-e8af-42cc-acb9-6b879cdd8bdf)
+
+### Training and Validation Accuracy
+![image](https://github.com/user-attachments/assets/9f3afba9-0b16-4945-b725-9ce2530c9cea)
+
+
 ## 📚 Technologies Used
 - Python
 - Keras (TensorFlow backend)
